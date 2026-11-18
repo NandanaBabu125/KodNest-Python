@@ -2,26 +2,26 @@
 
 ## My Name
 
-Write your name.
+Nandana babu
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+I learned about all the basics of programming
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+In this developing AI world python is the language used for AI, so i chosed python to become an AI/ML engineer.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+AI Software Engineer
 
 ## What I Understood Today
 
-Complete these sentences:
+Complete these sentences:we learnered whats the difference between python and programming.
 
-Programming means:
+Programming means:Step of instaructions to solve a problem.
 
-Python is:
+Python is:Step by step synatx, a programming language.
 
-In this track, I will learn:
+In this track, I will learn:more about python and its programming.
